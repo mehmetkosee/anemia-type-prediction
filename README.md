@@ -7,7 +7,8 @@ This project implements an Artificial Neural Network (ANN) model to classify ane
 The model analyzes hemogram parameters (WBC, HGB, MCV, etc.) to classify patients into one of 9 distinct categories (e.g., Iron deficiency anemia, Normocytic hypochromic anemia, Healthy, etc.).
 
 ## Dataset
-link: https://www.kaggle.com/code/mehmetkosee/anemia-type-prediction/notebook
+link: https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification/data
+
 Dataset used: `diagnosed_cbc_data_v4.csv`
 
 Input Features:
